@@ -53,6 +53,7 @@ export const RegisterForm = () => {
                 type="password"
                 placeholder="Enter password"
                 name="password"
+                title='Enter password minenter a password of at least 7 characters'
                 required
                 className={css.input}
               />
