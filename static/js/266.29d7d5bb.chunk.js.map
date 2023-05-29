@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/266.29d7d5bb.chunk.js","mappings":"sKAMA,UAJa,WACX,OAAO,SAAC,KAAD,GACR,C","sources":["pages/Home.js"],"sourcesContent":["import { HomeSection } from 'components';\n\nconst Home = () => {\n  return <HomeSection />;\n};\n\nexport default Home;\n"],"names":[],"sourceRoot":""}

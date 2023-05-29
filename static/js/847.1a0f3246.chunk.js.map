@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/847.1a0f3246.chunk.js","mappings":"sKAMA,UAJiB,WACf,OAAO,SAAC,KAAD,GACR,C","sources":["pages/Contacts.js"],"sourcesContent":["import { ContactsSection } from 'components';\n\nconst Contacts = () => {\n  return <ContactsSection />;\n};\n\nexport default Contacts;\n"],"names":[],"sourceRoot":""}

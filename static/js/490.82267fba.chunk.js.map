@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/490.82267fba.chunk.js","mappings":"sKAMA,UAJc,WACZ,OAAO,SAAC,KAAD,GACR,C","sources":["pages/Login.js"],"sourcesContent":["import { LoginForm } from 'components';\n\nconst Login = () => {\n  return <LoginForm />;\n};\n\nexport default Login;\n"],"names":[],"sourceRoot":""}
