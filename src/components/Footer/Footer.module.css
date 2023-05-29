@@ -1,0 +1,11 @@
+.box {
+  text-align: center;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: rgb(77, 76, 76);
+}

@@ -1,0 +1,26 @@
+.box {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.input {
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: 1px solid rgb(182, 177, 177);
+  cursor: pointer;
+  outline: none;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.input:hover,
+.input:focus {
+  border-color: #87cf29;
+}

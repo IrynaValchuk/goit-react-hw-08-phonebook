@@ -1,0 +1,26 @@
+.box {
+  display: flex;
+  align-items: center;
+  gap: 90px;
+}
+
+.logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.17;
+  color: #9dd30a;
+}
+
+.logoAccent {
+  color: #87cf29;
+}
+
+.menuBox {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+  align-items: center;
+}

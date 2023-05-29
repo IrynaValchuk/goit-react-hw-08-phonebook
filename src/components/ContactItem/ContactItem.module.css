@@ -1,0 +1,31 @@
+.item {
+  display: flex;
+  gap: 30px;
+  padding: 15px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0px 2px 7px 2px #a2aca0af;
+  border-radius: 5px;
+}
+
+.box {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textName {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.textNumber {
+  font-size: 16px;
+}
+
+.btn {
+  padding: 0 20px;
+  height: 30px;
+}
