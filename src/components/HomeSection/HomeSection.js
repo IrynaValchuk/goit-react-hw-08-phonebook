@@ -15,8 +15,9 @@ export const HomeSection = () => {
             streamlining your contacts. This website will help you keep all your
             contacts in one place and quickly access the information you need.
             Say goodbye to lost phone numbers and embrace convenience in your
-            daily life.Wishing you success in using the website.
+            daily life.
           </p>
+          <p className={css.text}>Wishing you success in using the website.</p>
         </div>
         <img
           src={img}

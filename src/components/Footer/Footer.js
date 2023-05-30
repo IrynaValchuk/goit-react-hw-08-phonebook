@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <div className={css.box}>
       <p className={css.text}>&#169; 2023</p>
-      <p className={css.text}>PhoneBook. All Rights Reserved.</p>
+      <p className={css.text}>PhoneBook. Created be Iryna Valchuk.</p>
     </div>
   );
 };
